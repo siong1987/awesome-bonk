@@ -1,4 +1,4 @@
-Awesome [Bonk](https://www.bonkcoin.com)
+Awesome [$Bonk](https://www.bonkcoin.com)
 ====
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
